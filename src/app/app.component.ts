@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { CockpitComponent } from './cockpit/cockpit.component';
-import { ServerElmentComponent } from './server-elment/server-elment.component';
+import { ServerElementComponent } from './server-element/server-element.component';
 
 @Component({
   selector: 'app-root',
